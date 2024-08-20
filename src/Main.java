@@ -11,5 +11,8 @@ public class Main {
         System.out.println("Commit C5");
 
         System.out.println("Commit C4");
+        System.out.println("Commit C4");
+        System.out.println("Commit C4");
+        System.out.println("Commit C4");
     }
 }
